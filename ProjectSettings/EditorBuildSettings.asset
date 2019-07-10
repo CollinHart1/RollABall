@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/Minigame.unity
+    path: Assets/_Scenes/Challenge.unity
     guid: dfa6c7014fa3ac341897b63202f167bb
   m_configObjects: {}
